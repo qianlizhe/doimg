@@ -1,4 +1,29 @@
-# doimg
+
+#
+
+输出png图片不含透明背景的实际区域大小
+
+##
+运行方式：
+
+下载代码后，运行 node index.js 会输出图片的rect 范围（需要nodjs环境），如下所示（忽略了其他输出）：
+
+
+
+
+
+##
+
+参考了以下博客内容制作的demo：png 的故事：获取图片信息和像素内容
+
+http://www.alloyteam.com/2017/03/the-story-of-png-get-images-and-pixel-content/
+
+
+git地址：https://github.com/JuneAndGreen/doimg
+
+
+
+## doimg
 
 一个简单的图片解码工具
 
@@ -61,3 +86,9 @@ let pixels = jpeg.decode(); // 像素数据
 ## 协议
 
 MIT
+
+
+
+
+
+
