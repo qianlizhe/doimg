@@ -6,9 +6,7 @@
 ##
 运行方式：
 
-下载代码后，运行 node index.js 会输出图片的rect 范围（需要nodjs环境），如下所示（忽略了其他输出）：
-
-
+下载代码后，运行 node index.js 会输出图片的rect 范围（需要nodjs环境）
 
 
 
